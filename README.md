@@ -1,6 +1,6 @@
 # Portrait generator
 
-This is a small model which could work as a good example of a project involving a general adversarial network (GAN). The model aims to generate new portraits based on 128 input features. The provided network has been trained on 9376 different portraits from the [lfw dataset](http://vis-www.cs.umass.edu/lfw/). Below an example of the output could be seen displaying generated portrait combined with the given input. The total training time took 20 epochs.
+This is a small model which could work as a good example of a project involving a generative adversarial network (GAN). The model aims to generate new portraits based on 128 input features. The provided network has been trained on 9376 different portraits from the [lfw dataset](http://vis-www.cs.umass.edu/lfw/). Below an example of the output could be seen displaying generated portrait combined with the given input. The total training time took 20 epochs.
 
 
 
